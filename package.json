@@ -1,0 +1,12 @@
+{
+  "name": "processargvflags",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./examples/example.js -example true && exit 0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
